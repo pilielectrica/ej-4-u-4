@@ -1,0 +1,12 @@
+﻿  Game.cpp
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(58,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(58,52): warning C4244:         with
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(58,52): warning C4244:         [
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(58,52): warning C4244:             T=float
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(58,52): warning C4244:         ]
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(63,53): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(63,53): warning C4244:         with
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(63,53): warning C4244:         [
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(63,53): warning C4244:             T=float
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Src\Game.cpp(63,53): warning C4244:         ]
+  Box2dEmptyApp.vcxproj -> D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 3\Ejercicios\U3 Ej4 Pilar Marco\MAVII-U2-EJ4\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
